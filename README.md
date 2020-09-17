@@ -1,11 +1,11 @@
-# Rock climbing areas Berguedá
+# Rock climbing areas Lleida
 
 Crags and Parking
 
 Topos guide
 
-Berguedá Vertical
+Lleida Climbs
 
-ISBN:9788409010431
+ISBN:9780956700650
 
-https://www.libreriadesnivel.com/libros/bergueda-vertical/9788409010431/
+https://www.libreriadesnivel.com/libros/lleida-climbs/9780956700650/

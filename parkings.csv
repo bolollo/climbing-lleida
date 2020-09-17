@@ -1,55 +1,54 @@
 name,lat,lon
-La Mussolera - La Gravera,42.1260306,1.8469891
-Font Negra - Roc de l'Alou / Can Meu,42.1108278,1.8259781
-Font Negra - Can Maurí,42.1156008,1.8374885
-Font Negra - Coll de Vilaformiu,42.1152664,1.8411317
-Font Negra - Mercadal Superior,42.1145111,1.8412583
-Font Negra - Mercadal Inferior / Cal Nebots,42.1118,1.8345778
-Queralt - Pàrquing / Drecera de Queralt / Font del Bou / Mirador de Garreta,42.1077278,1.8263502
-Queralt - La Vinya,42.1035556,1.8302639
-Queralt - Garreta / Roc Negre,42.1023667,1.8167028
-Cinglera dels Esqueis - Corbera,42.1244083,1.81035
-Cinglera dels Esqueis - Racó Tranquil / L'Estany,42.1265528,1.8114972
-Cinglera dels Esqueis - L'Arcada i el Gendarme / L'Amfiteatre,42.127285,1.8195705
-Cinglera dels Esqueis - Can Guies,42.1297571,1.8258762
-Cinglera dels Esqueis - Can Placa,42.1311111,1.8225891
-Cinglera dels Esqueis - Casanova,42.1337604,1.8274619
-Font Freda - Font Freda (Oest) / Font Freda (Est) / El Dau,42.1128186,1.8024601
-Rasos de Peguera - Torrent dels Porxos,42.1280583,1.7639833
-Rasos de Peguera - Carboneres,42.1291861,1.7686917
-Rasos de Peguera - Can Tronco,42.1284389,1.7692083
-Rasos de Peguera - El Sectoret i el Rusc / Les Agulles,42.1394472,1.7659778
-Rasos de Peguera - El Corral,42.1416028,1.7646056
-Coforb - Ca n'Hug,42.0956833,1.8065817
-Coforb - Serrapinyana,42.0768827,1.7960061
-Taravil - La Placeta (1) / La Placeta (3),42.0750167,1.7368169
-Taravil - La Terrassa,42.0674366,1.7284502
-Taravil - El Mal Pas,42.0728684,1.7191055
-Taravil - Balcó de Santaïna (Sota),42.0728684,1.7191055
-Taravil - Balcó de Santaïna (Sobre),42.0722611,1.7145944
-Taravil - Cal Molsa (1) / Cal Molsa (2). El Nas,42.0753549,1.7078838
-Taravil - Tossal de Trasserra,42.0826877,1.7266084
-Castell de Roset - La Masó,42.1479639,1.9181778
-Castell de Roset - Roset / Can Marieta,42.148976,1.920567
-Castell de Roset - Els Forats,42.1548306,1.9136194
-Castell de Roset - Totxo de Picamill,42.1548057,1.9053502
-Sant Romà de la Clusa - L'Hereuet / Rossinyol,42.1851139,1.9282306
-Sant Romà de la Clusa - Quart Minvant / Quart Creixent,42.1824917,1.9276889
-Sant Romà de la Clusa - La Talaia / Els Racons / Can Fàcil / La Dent,42.1789722,1.9257333
-Rotgers - Roquetes,42.15536,1.9831584
-Picancel - Serrat dels Teixons,42.1212917,1.9656389
-La Nou de Berguedà - El Santuari,42.1630917,1.8844056
-La Nou de Berguedà - Aguda Gran / Aguda Petita,42.1763056,1.8968083
-Malanyeu - Cingles de Malanyeu,42.2038417,1.8919194
-Malanyeu - Paret del Devesó / Taules de la Llei / La Quinta Forca,42.1951583,1.8913222
-Malanyeu - La Pona,42.2017425,1.9020145
-Fígols - Grau de la Mola,42.1843917,1.827025
-Fígols - Grau dels Boigs,42.1883957,1.8462639
-Vallcebre - La Foradada,42.215733,1.8289618
-Vallcebre - Grau de Granoteres,42.2098722,1.8424833
-Vallcebre - Grau de Sant Climents,42.2080568,1.8499538
-Sant Julià de Cerdanyola - Les Esposes,42.2264122,1.8918897
-Sant Julià de Cerdanyola - El Forcat,42.2257694,1.8922639
-Roc de la Lluna - Joc de Pilota,42.2164917,1.9632194
-Roc de la Lluna - Flor de Neu,42.2136095,1.9611285
-Riugréixer - Riugréixer (Oest) / Riugréixer (Est),42.2730916,1.8510078
+Camarasa - La Blanca / Sector Emotion / Kuestelon la France,41.9005556,0.8861111
+Camarasa - Marcant Estil / San Juan / La Font,41.9016667,0.8880555
+Camarasa - Paret dels Heretges / El Perrancot / La Pera / Cingle de la Llum / Capricho del Vicho / Sector Dexter / Sector Fashion / La Selva,41.905,0.8902777
+Camarasa - El Puro / El Balcó del Mu,41.9058333,0.891666
+Camarasa - Crestes de Conill (S),41.8766667,0.8741666
+Camarasa - Crestes de Conill (N),41.8830556,0.8752777
+Camarasa - La Cova de L'Escaleta / El Solarium / El Túnel (L'Aiguabarreig) / Sector Mongetae,41.9102778,0.885555
+St. Llorenç de Montgai - La Formiguera / Balcó de Sant Llorenç / Agulla de L'Isard / Disblia / El Cilindre / Xinxetes / Mordor/Clasificado "S",41.8727778,0.8438888
+St. Llorenç de Montgai - Esperó Remacha / Paret de l'Os,41.874291,0.846890
+St. Llorenç de Montgai - Kurtika,41.8716667,0.8586111
+St. Llorenç de Montgai - Font del Gat / Sector Transparet,41.8688889,0.8638888
+Cubells - For Fred / Foradat / Duc / Placa Gran / Braille / Petit,41.87,0.9819444
+Alòs de Belaguer - El Balcó del Segre,41.9086111,0.9952777
+Alòs de Belaguer - L'Estret,41.9102778,0.991111
+Alòs de Belaguer - Barranc de Sant Martí,41.928885,0.943713
+Alòs de Belaguer - Cal Cari,41.9119444,0.953333
+Alòs de Belaguer - El Racó del Segre,41.9105556,0.9236111
+La Pauta - Antepauta,41.9483333,1.010555
+La Pauta - La Pauta,41.9594444,0.999722
+Santa Ana - Escaleras al Cielo / El Sendero / Placa Vermella/L'Esperó / Paret del Vent / Exploradors / Agulles Sud,41.8780556,0.578888
+Santa Ana - Agulles Nord,41.8803976,0.5798855
+Os de Belaguer - Tot un Plaer / Fligght to Africa / Sostre Vilars / Aida / La Guineueta / Rai Lay / L'Heretge / Ryobi,41.8738889,0.7127777
+Tartareu - Tempura / Bombó Suís / Ànima Negra / La Cara de La Mort,41.9280556,0.7141666
+Tartareu - Cavall de Troia / Tocho Mocho / L'Obsessió de Tibar,41.930319,0.713766
+Tartareu - Lolo Decotón / Jet Lag / Guacamole,41.9327778,0.7130555
+Santa Linya - Futbolín,41.9230556,0.7805555
+Santa Linya - Cova Gran,41.9241667,0.804444
+Santa Linya - Barranc de Fontfreda,41.9280556,0.8208333
+Àger - Camp 300,42.0394444,0.745
+Àger - Barranc de Grillons,42.0272222,0.7563888
+Terradets - Els Isards,42.0352778,0.883888
+Terradets - La Pizarra / Si Fas Free no Fa Fred / Clot Fondo,42.039171,0.884697
+Terradets - Sector Regina,42.0458333,0.8925
+Terradets - Paret de les Bruixes,42.048133,0.892588
+Terradets - Clot de Miquí (El Doll),41.9502778,0.8613888
+Vilanova de Meià - Parets de la Font de L'Hedra,42.005,1.03
+Vilanova de Meià - Paret de Les Cabres,42.0197222,1.030833
+Vilanova de Meià - El Contrafort,42.022448,1.034809
+Vilanova de Meià - L'Anticúpula / Amatista / La Cúpula,42.0266667,1.033888
+Abella de La Conca - Les Ajagudes / Mur Blau / Sector Voltor / Altiplano,42.16,1.088611
+Abella de La Conca - El Congost,42.165,1.058333
+Abella de La Conca - El Canyon,42.1605556,1.094444
+Abella de La Conca - Font de les Gotes,42.159287,1.098411
+Abella de La Conca - Panorama / Lo Morral,42.1622222,1.0969444
+Abella de La Conca - L'Església / Pirámide / Sector Ferrata / Forat dels Lladres,42.161373,1.091962
+Abella de La Conca - La Costera,42.162379,1.093980
+Collegats - Sector Cine / Gramuntill,42.2636111,1.0133333
+Collegats - Cal Nica / La Terrasseta / La Pedrera,42.2711111,1.0277777
+Collegats - L'Argenteria / El Niu / El Primer Vol / Sector Thai,42.3002778,1.035000
+Collegats - La Costoia,42.3458333,1.0680555
+Collegats - La Panotxa,42.3163889,0.935555
+Collegats - Can Paulet,42.3394444,0.9219444
+Oliana - ,

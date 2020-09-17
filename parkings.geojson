@@ -4,702 +4,143 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "La Mussolera - La Gravera"
+                "name": "Camarasa - La Blanca / Sector Emotion / Kuestelon la France"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8469891,
-                    42.1260306
+                    0.8861111,
+                    41.9005556
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Font Negra - Roc de l'Alou / Can Meu"
+                "name": "Camarasa - Marcant Estil / San Juan / La Font"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8259781,
-                    42.1108278
+                    0.8880555,
+                    41.9016667
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Font Negra - Can Maurí"
+                "name": "Camarasa - Paret dels Heretges / El Perrancot / La Pera / Cingle de la Llum / Capricho del Vicho / Sector Dexter / Sector Fashion / La Selva"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8374885,
-                    42.1156008
+                    0.8902777,
+                    41.905
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Font Negra - Coll de Vilaformiu"
+                "name": "Camarasa - El Puro / El Balcó del Mu"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8411317,
-                    42.1152664
+                    0.891666,
+                    41.9058333
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Font Negra - Mercadal Superior"
+                "name": "Camarasa - Crestes de Conill (S)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8412583,
-                    42.1145111
+                    0.8741666,
+                    41.8766667
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Font Negra - Mercadal Inferior / Cal Nebots"
+                "name": "Camarasa - Crestes de Conill (N)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8345778,
-                    42.1118
+                    0.8752777,
+                    41.8830556
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Queralt - Pàrquing / Drecera de Queralt / Font del Bou / Mirador de Garreta"
+                "name": "Camarasa - La Cova de L'Escaleta / El Solarium / El Túnel (L'Aiguabarreig) / Sector Mongetae"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8263502,
-                    42.1077278
+                    0.885555,
+                    41.9102778
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Queralt - La Vinya"
+                "name": "St. Llorenç de Montgai - La Formiguera / Balcó de Sant Llorenç / Agulla de L'Isard / Disblia / El Cilindre / Xinxetes / Mordor/Clasificado \"S\""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8302639,
-                    42.1035556
+                    0.8438888,
+                    41.8727778
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Queralt - Garreta / Roc Negre"
+                "name": "St. Llorenç de Montgai - Esperó Remacha / Paret de l'Os"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8167028,
-                    42.1023667
+                    0.84689,
+                    41.874291
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cinglera dels Esqueis - Corbera"
+                "name": "St. Llorenç de Montgai - Kurtika"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.81035,
-                    42.1244083
+                    0.8586111,
+                    41.8716667
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Cinglera dels Esqueis - Racó Tranquil / L'Estany"
+                "name": "St. Llorenç de Montgai - Font del Gat / Sector Transparet"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8114972,
-                    42.1265528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cinglera dels Esqueis - L'Arcada i el Gendarme / L'Amfiteatre"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8195705,
-                    42.127285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cinglera dels Esqueis - Can Guies"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8258762,
-                    42.1297571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cinglera dels Esqueis - Can Placa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8225891,
-                    42.1311111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cinglera dels Esqueis - Casanova"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8274619,
-                    42.1337604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Font Freda - Font Freda (Oest) / Font Freda (Est) / El Dau"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8024601,
-                    42.1128186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rasos de Peguera - Torrent dels Porxos"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7639833,
-                    42.1280583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rasos de Peguera - Carboneres"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7686917,
-                    42.1291861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rasos de Peguera - Can Tronco"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7692083,
-                    42.1284389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rasos de Peguera - El Sectoret i el Rusc / Les Agulles"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7659778,
-                    42.1394472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rasos de Peguera - El Corral"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7646056,
-                    42.1416028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Coforb - Ca n'Hug"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8065817,
-                    42.0956833
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Coforb - Serrapinyana"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7960061,
-                    42.0768827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - La Placeta (1) / La Placeta (3)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7368169,
-                    42.0750167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - La Terrassa"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7284502,
-                    42.0674366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - El Mal Pas"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7191055,
-                    42.0728684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - Balcó de Santaïna (Sota)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7191055,
-                    42.0728684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - Balcó de Santaïna (Sobre)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7145944,
-                    42.0722611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - Cal Molsa (1) / Cal Molsa (2). El Nas"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7078838,
-                    42.0753549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Taravil - Tossal de Trasserra"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7266084,
-                    42.0826877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Castell de Roset - La Masó"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9181778,
-                    42.1479639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Castell de Roset - Roset / Can Marieta"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.920567,
-                    42.148976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Castell de Roset - Els Forats"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9136194,
-                    42.1548306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Castell de Roset - Totxo de Picamill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9053502,
-                    42.1548057
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sant Romà de la Clusa - L'Hereuet / Rossinyol"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9282306,
-                    42.1851139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sant Romà de la Clusa - Quart Minvant / Quart Creixent"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9276889,
-                    42.1824917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sant Romà de la Clusa - La Talaia / Els Racons / Can Fàcil / La Dent"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9257333,
-                    42.1789722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rotgers - Roquetes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9831584,
-                    42.15536
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Picancel - Serrat dels Teixons"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9656389,
-                    42.1212917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Nou de Berguedà - El Santuari"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8844056,
-                    42.1630917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Nou de Berguedà - Aguda Gran / Aguda Petita"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8968083,
-                    42.1763056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Malanyeu - Cingles de Malanyeu"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8919194,
-                    42.2038417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Malanyeu - Paret del Devesó / Taules de la Llei / La Quinta Forca"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8913222,
-                    42.1951583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Malanyeu - La Pona"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9020145,
-                    42.2017425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Fígols - Grau de la Mola"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.827025,
-                    42.1843917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Fígols - Grau dels Boigs"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8462639,
-                    42.1883957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vallcebre - La Foradada"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8289618,
-                    42.215733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vallcebre - Grau de Granoteres"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8424833,
-                    42.2098722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vallcebre - Grau de Sant Climents"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8499538,
-                    42.2080568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sant Julià de Cerdanyola - Les Esposes"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8918897,
-                    42.2264122
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sant Julià de Cerdanyola - El Forcat"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8922639,
-                    42.2257694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Roc de la Lluna - Joc de Pilota"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9632194,
-                    42.2164917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Roc de la Lluna - Flor de Neu"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9611285,
-                    42.2136095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Riugréixer - Riugréixer (Oest) / Riugréixer (Est)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8510078,
-                    42.2730916
+                    0.8638888,
+                    41.8688889
                 ]
             }
         }
