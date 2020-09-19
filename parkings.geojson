@@ -143,6 +143,760 @@
                     41.8688889
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cubells - For Fred / Foradat / Duc / Placa Gran / Braille / Petit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9819444,
+                    41.87
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alòs de Belaguer - El Balcó del Segre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9952777,
+                    41.9086111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alòs de Belaguer - L'Estret"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.991111,
+                    41.9102778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alòs de Belaguer - Barranc de Sant Martí"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.943713,
+                    41.928885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alòs de Belaguer - Cal Cari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.953333,
+                    41.9119444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alòs de Belaguer - El Racó del Segre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9236111,
+                    41.9105556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Pauta - Antepauta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.010555,
+                    41.9483333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Pauta - La Pauta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.999722,
+                    41.9594444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Ana - Escaleras al Cielo / El Sendero / Placa Vermella/L'Esperó / Paret del Vent / Exploradors / Agulles Sud"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.578888,
+                    41.8780556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Ana - Agulles Nord"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5798855,
+                    41.8803976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Os de Belaguer - Tot un Plaer / Fligght to Africa / Sostre Vilars / Aida / La Guineueta / Rai Lay / L'Heretge / Ryobi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7127777,
+                    41.8738889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tartareu - Tempura / Bombó Suís / Ànima Negra / La Cara de La Mort"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7141666,
+                    41.9280556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tartareu - Cavall de Troia / Tocho Mocho / L'Obsessió de Tibar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.713766,
+                    41.930319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tartareu - Lolo Decotón / Jet Lag / Guacamole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7130555,
+                    41.9327778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Linya - Futbolín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7805555,
+                    41.9230556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Linya - Cova Gran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.804444,
+                    41.9241667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Linya - Barranc de Fontfreda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8208333,
+                    41.9280556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Àger - Camp 300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.745,
+                    42.0394444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Àger - Barranc de Grillons"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7563888,
+                    42.0272222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terradets - Els Isards"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.883888,
+                    42.0352778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terradets - La Pizarra / Si Fas Free no Fa Fred / Clot Fondo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.884697,
+                    42.039171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terradets - Sector Regina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8925,
+                    42.0458333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terradets - Paret de les Bruixes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.892588,
+                    42.048133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terradets - Clot de Miquí (El Doll)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8613888,
+                    41.9502778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vilanova de Meià - Parets de la Font de L'Hedra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.03,
+                    42.005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vilanova de Meià - Paret de Les Cabres"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.030833,
+                    42.0197222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vilanova de Meià - El Contrafort"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.034809,
+                    42.022448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vilanova de Meià - L'Anticúpula / Amatista / La Cúpula"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.033888,
+                    42.0266667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - Les Ajagudes / Mur Blau / Sector Voltor / Altiplano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.088611,
+                    42.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - El Congost"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.058333,
+                    42.165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - El Canyon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.094444,
+                    42.1605556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - Font de les Gotes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.098411,
+                    42.159287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - Panorama / Lo Morral"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0969444,
+                    42.1622222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - L'Església / Pirámide / Sector Ferrata / Forat dels Lladres"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.091962,
+                    42.161373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abella de La Conca - La Costera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.09398,
+                    42.162379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - Sector Cine / Gramuntill"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0133333,
+                    42.2636111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - Cal Nica / La Terrasseta / La Pedrera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0277777,
+                    42.2711111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - L'Argenteria / El Niu / El Primer Vol / Sector Thai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.035,
+                    42.3002778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - La Costoia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0680555,
+                    42.3458333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - La Panotxa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.935555,
+                    42.3163889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collegats - Can Paulet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9219444,
+                    42.3394444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliana - Contrafort de Rumbau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2880555,
+                    42.0763889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliana - Sector Rams"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3036111,
+                    42.1172222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliana - L'Obaga Negra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3097222,
+                    42.1325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coll de Nargó - Bel Canto / Sector Dipòsit / Sector dels Isards / Sector D'Abaix"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3138888,
+                    42.1755556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coll de Nargó - Paret del Grau / Els Gegants / Castellasos / Coll Piqué / Samarkanda / Del Mig"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3052777,
+                    42.1772222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coll de Nargó - (4x4) - Uriundu / Tranquil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2930555,
+                    42.1780556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coll de Nargó - La Ola"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.18527777,
+                    42.1708333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perles - Agulla de l'Alba / Roc d'en Solà / Roc d'en Betriu / Pont de l'Arc/Cristina / Sector dels Roures"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3930555,
+                    42.1788889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Canelles - Sector Safari / L'Espluga de Cels"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3677777,
+                    42.1838889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fígols - Fígols a l'Ombra / El Sòcol de Narieda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3405555,
+                    42.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fígols - Cova Camí d'en Pep"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.335,
+                    42.1927778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fígols - Cova de les Gralles / Can Sisa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3316666,
+                    42.1861111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fígols - Sector Xapat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.353333,
+                    42.2041667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tres Ponts - Bon Combat / El Balcó dels Tres Ponts / Main Sector/Sector Principal / La Fontanella Est / La Fontanella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3480555,
+                    42.2505556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cavallers - El Antro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.854166,
+                    42.5836111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cavallers - Drinking / Placa Xalmet / Afrikan Wall / La Kanalla / Escaleras / El Casco / Plaka Tuka / Pas de L'Os / Pared Inerte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.85512,
+                    42.584613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Cova de Juncosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7544444,
+                    41.3777778
+                ]
+            }
         }
     ]
 }
