@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bolollo/climbing-bergueda#readme",
   "dependencies": {
-    "csvtojson": "^2.0.10"
+    "csvtojson": "^2.0.13"
   }
 }
